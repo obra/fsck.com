@@ -1,0 +1,19 @@
+#masthead-contact {
+    text-align: right;
+}
+
+.twtr-ft {
+    display: none;
+}
+
+.twtr-tweet-text em {
+text-align: right;
+}
+
+#twtr-widget-1 div.twtr-avatar  {
+    display: block;
+}
+
+.twtr-hd {
+    display: none;
+}
