@@ -1,5 +1,23 @@
+#masthead {
+    background: url(http://farm8.staticflickr.com/7052/6822260178_f58f19e6db_h.jpg);
+    min-height: 200px;
+}
+
+#masthead {
+    color: #000;
+    font-weight: bold;
+    text-shadow: 0 0 4px #fff;
+}
+
+#masthead h1 {
+    margin-bottom: 0.25em;
+}
 #masthead-contact {
-    text-align: right;
+    font-size: 1.4em;
+    line-height: 1.4em;
+}
+#masthead a {
+    color: #000;
 }
 
 .twtr-ft {
